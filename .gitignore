@@ -1,5 +1,7 @@
 local.settings.json
+.DS_Store
 
 bin/
 obj/
 .vs/
+PublishProfiles/
